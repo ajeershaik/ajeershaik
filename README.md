@@ -48,3 +48,32 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+## 🧩 Problem Solving
+
+- 💡 Solved 600+ coding problems across coding platforms
+- 🧠 Strong interest in Data Structures & Algorithms
+- 🔍 Practicing Arrays, Strings, Hashing, Sliding Window,
+  Two Pointers, Trees, Graphs, DP and Greedy algorithms
+
+
+## 📜 Certifications
+
+- 🏆 ServiceNow Certified System Administrator (CSA)
+- ☕ GeeksforGeeks Advanced Java
+- 💻 Java Full Stack Internship — ExcelR
+- 🏆 College Hackathon Winner
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ajeerahmad
+- 📧 Email: ajeerahmad3016@gmail.com
+- 💻 GitHub: https://github.com/ajeershaik
