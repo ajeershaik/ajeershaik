@@ -20,6 +20,7 @@
 
 ### 🌐 Web & Backend
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,6 +41,7 @@
 | 🚀 SmartHire | Java • Spring Boot • React • MySQL • JWT | AI-powered interview & recruitment platform |
 | 🏥 MediScan AI | Python • OCR • React • Node.js • MongoDB | AI-based medical prescription reader |
 | 🎓 CampusConnect | Java • JSP • Servlets • MySQL | Student management system |
+| 🤖 Campus Retrieval Agent | Python • LangChain • RAG • Hugging Face • Chroma • Groq | Document-based AI question answering system |
 
 
 ### 🛠️ Tools
@@ -48,14 +50,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ## 🧩 Problem Solving
 
