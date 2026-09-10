@@ -32,6 +32,15 @@
 ### 🤖 AI / ML
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| 🚀 SmartHire | Java • Spring Boot • React • MySQL • JWT | AI-powered interview & recruitment platform |
+| 🏥 MediScan AI | Python • OCR • React • Node.js • MongoDB | AI-based medical prescription reader |
+| 🎓 CampusConnect | Java • JSP • Servlets • MySQL | Student management system |
+| 🚆 Railway Reservation System | Java • JDBC • MySQL | Console-based railway reservation system |
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
 
