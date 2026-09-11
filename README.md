@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./Gemini_Generated_Image_gt4t40gt4t40gt4t.png" width="100%" />
+<img src="./github_banner1.png" width="100%" />
 </div>
 
 
