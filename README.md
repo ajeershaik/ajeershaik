@@ -1,14 +1,5 @@
 <div align="center">
-
 <img src="./Gemini_Generated_Image_gt4t40gt4t40gt4t.png" width="100%" />
-
-# Hi 👋, I'm Ajay
-
-### Computer Science Student | Software Developer | AI Enthusiast
-
-Passionate about building full-stack applications and exploring
-Artificial Intelligence and Machine Learning.
-
 </div>
 
 
